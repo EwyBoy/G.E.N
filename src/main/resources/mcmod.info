@@ -1,0 +1,19 @@
+[
+    {
+      "modid": "gen",
+      "name": "G.E.N",
+      "description": "",
+      "version": "${version}",
+      "mcversion": "${mcversion}",
+      "url": "",
+      "updateUrl": "",
+      "authorList": [
+        "EwyBoy",
+        "Lanse505"
+        ],
+      "credits": "Lanse505 for stuff",
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": []
+    }
+]
