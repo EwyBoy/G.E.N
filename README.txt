@@ -1,5 +1,5 @@
 -------------------------------------------
-				   G.E.N
+		G.E.N
 -------------------------------------------
 G.E.N is a World Generation Mod
 Focused Around providing the Pack Maker
